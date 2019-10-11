@@ -8,4 +8,4 @@ gem "sinatra"
 gem "sinatra-contrib"
 gem "rake"
 gem "line-bot-api"
-
+gem "dotenv"
